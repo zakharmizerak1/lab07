@@ -1,0 +1,6 @@
+id,type,amount,currency,status
+101,deposit,20,USD,success
+102,withdrawal,300,UAH,failed
+103,deposit,25,EUR,success
+104,transfer,900,UAH,success
+105,transfer,20,USD,success

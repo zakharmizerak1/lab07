@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "type": "deposit",
+    "amount": 20,
+    "currency": "USD",
+    "status": "success"
+  },
+  {
+    "id": 102,
+    "type": "withdrawal",
+    "amount": 300,
+    "currency": "UAH",
+    "status": "failed"
+  },
+  {
+    "id": 103,
+    "type": "deposit",
+    "amount": 25,
+    "currency": "EUR",
+    "status": "success"
+  },
+  {
+    "id": 104,
+    "type": "transfer",
+    "amount": 900,
+    "currency": "UAH",
+    "status": "success"
+  },
+  {
+    "id": 105,
+    "type": "transfer",
+    "amount": 20,
+    "currency": "USD",
+    "status": "success"
+  }
+]
